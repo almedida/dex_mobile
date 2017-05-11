@@ -2,7 +2,7 @@
 <widget id="com.dexlearn" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>DexLearn</name>
   <description>DexLearn</description>
-  <author href="http://dexlearn.com" email="developer@dexlearn.com">Shola Lawal</author>
+  <author href="http://dexlearn.com" email="developer@dexlearn.com">Hammed Lawal</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
