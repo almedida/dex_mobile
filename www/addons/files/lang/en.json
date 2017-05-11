@@ -1,0 +1,13 @@
+{
+    "admindisableddownload": "Please note that your Moodle administrator disabled file downloads, you can browse through the files but not download them.",
+    "clicktoupload": "Click the button below to upload files to your private files.",
+    "couldnotloadfiles": "The list of files could not be loaded.",
+    "emptyfilelist": "There are no files to show.",
+    "erroruploadnotworking": "Unfortunately it is currently not possible to upload files to your site.",
+    "myfiles": "DexLearn files",
+    "myprivatefiles": "My private files",
+    "myprivatefilesdesc": "You can manage your personal files on DexLearn",
+    "sitefiles": "Site files",
+    "sitefilesdesc": "You can also access files that are shared on DexLearn",
+    "uploadfiles": "Upload files"
+}

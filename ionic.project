@@ -1,0 +1,15 @@
+{
+  "name": "mm2",
+  "app_id": "1",
+  "gulpStartupTasks": [
+    "build",
+    "sass",
+    "watch",
+    "lang",
+    "config"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
